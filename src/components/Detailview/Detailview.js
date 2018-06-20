@@ -3,7 +3,7 @@ import Button from '../Sidebar/Button';
 const Detailview = (props)=>{
   return(
     <div>
-    <div style = {{border: '1px solid grey',marginLeft:'21%', width:'75%', height:800, display:'block'}}>
+    <div style = {{border: '1px solid grey',marginLeft:'21%', width:'75%', height:'75%', display:'block'}}>
     <div style = {{width:'100%', height:'80%',backgroundColor:props.detailColor}}></div>
     <h1> {props.detailColor} </h1>
   </div>
