@@ -143,7 +143,7 @@ class Listview extends React.Component {
       <table>
         {this.renderSquare()}
       </table>
-      <span style ={{paddingLeft:'40%'}}>
+      <span style ={{paddingLeft:'25%'}}>
       {this.renderPageButtons()}
       </span>
       </div>
