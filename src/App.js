@@ -54,7 +54,7 @@ class App extends Component {
   }
   render() {
     return (
-      <div className="App">
+      <div style ={{width:window.width}} className="App">
         <Header handleChange = {this.handleChange} value={this.state.searchTerm} />
         <Sidebar setRandom = {this.setRandom} clickHandler = {this.handleClick} />
         {this.renderContent()}
