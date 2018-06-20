@@ -20,7 +20,8 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 22px;
+    font-size: 18px;
+    width: 80%;
     font-family: 'Roboto', sans-serif;
 }
 tr {
