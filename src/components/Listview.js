@@ -139,7 +139,7 @@ class Listview extends React.Component {
   }
   render(){
     return(
-      <div style ={{float:"right",width:'70%',textAlign: 'center', paddingTop:'5%'}}>
+      <div style ={{float:"right",width:'70%',textAlign: 'left', paddingTop:'5%'}}>
       <table>
         {this.renderSquare()}
       </table>
