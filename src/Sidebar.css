@@ -1,0 +1,31 @@
+.sideBar{
+  float:left;
+  display: inline-block;
+  background-color: #c6cbd3;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: left;
+  color: #333131;
+  width:15%;
+  font-size: 22px;
+  height: 1000px;
+  font-family: 'Roboto', sans-serif;
+}
+button {
+    border:1px solid silver;
+    border-radius: 10px;
+    color: #333131;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+tr {
+  line-height:40px;
+}
+table{
+  width:70%;
+}
